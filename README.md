@@ -1,1 +1,1 @@
-# Bright-Script
+Bright-Script;
